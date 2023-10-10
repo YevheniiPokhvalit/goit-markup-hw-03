@@ -116,7 +116,6 @@ img {
 .nav-list {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 
 .nav-menu {
@@ -126,6 +125,7 @@ img {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.32px;
+  padding: 24px 0;
 }
 
 .header-address {
@@ -166,9 +166,6 @@ img {
   letter-spacing: 1.12px;
   max-width: 496px;
   margin: 0 auto 48px;
-}
-
-.hero-inner {
 }
 
 .button-wrap {
